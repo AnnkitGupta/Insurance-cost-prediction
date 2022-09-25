@@ -1,4 +1,4 @@
-# [Project 2:- Medical-Insurance-cost-prediction ](https://github.com/AnnkitGupta/Insurance-cost-prediction)
+# [Project 2:- Medical-Insurance-Cost-Prediction ](https://github.com/AnnkitGupta/Insurance-cost-prediction)
 
 Its a medical insurance cost prediction model by using a linear regression algorithm to predict the medical insurance charges of a person based on the given data.
 ![](https://github.com/AnnkitGupta/Insurance-cost-prediction/blob/main/images/test_vs_predicted.jpg)
